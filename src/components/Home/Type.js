@@ -9,7 +9,7 @@ function Type() {
           "I am a Software Engineer (Frontend)",
           "Specialized at React.js",
           "MERN Stack Developer",
-          "Devops",
+          "DevOps",
         ],
         autoStart: true,
         loop: true,
